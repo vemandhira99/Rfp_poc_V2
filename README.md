@@ -255,8 +255,9 @@ cd backend
 
 ## Related Docs
 
+- [Documentation index](docs/INDEX.md)
+- [Deployment checklist](docs/DEPLOYMENT_CHECKLIST.md)
 - [Architecture notes](docs/ARCHITECTURE_FINAL.md)
 - [Final POC README](docs/POC_FINAL_README.md)
 - [API contract](docs/api_contract.md)
 - [Demo script](docs/DEMO_SCRIPT.md)
-
