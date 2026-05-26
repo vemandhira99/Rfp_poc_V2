@@ -1,0 +1,10 @@
+@'
+backend/.venv/
+frontend/node_modules/
+**/__pycache__/
+*.py[cod]
+.env
+dist/
+build/
+.next/
+'@ | Set-Content .gitignore

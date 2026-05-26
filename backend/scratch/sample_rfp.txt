@@ -1,0 +1,39 @@
+
+Request for Proposal: Private Document Analysis Tool
+
+The buyer is seeking a local-first software system for reviewing RFP documents. The solution must run on Windows laptops,
+store uploaded documents locally, extract text from PDF, DOCX, and TXT files, and support private question answering using
+a locally hosted Ollama model.
+
+Scope of work includes document upload, deterministic document quality classification, chunking, lexical retrieval, and a
+private chat endpoint. The vendor must not transmit document contents to external APIs. The proposed MVP should be simple,
+auditable, and suitable for future expansion.
+
+Evaluation criteria include privacy, ease of installation, clear API contracts, document handling reliability, and a path
+to future local embeddings. The implementation should avoid heavyweight background processing during the MVP.
+
+Request for Proposal: Private Document Analysis Tool
+
+The buyer is seeking a local-first software system for reviewing RFP documents. The solution must run on Windows laptops,
+store uploaded documents locally, extract text from PDF, DOCX, and TXT files, and support private question answering using
+a locally hosted Ollama model.
+
+Scope of work includes document upload, deterministic document quality classification, chunking, lexical retrieval, and a
+private chat endpoint. The vendor must not transmit document contents to external APIs. The proposed MVP should be simple,
+auditable, and suitable for future expansion.
+
+Evaluation criteria include privacy, ease of installation, clear API contracts, document handling reliability, and a path
+to future local embeddings. The implementation should avoid heavyweight background processing during the MVP.
+
+Request for Proposal: Private Document Analysis Tool
+
+The buyer is seeking a local-first software system for reviewing RFP documents. The solution must run on Windows laptops,
+store uploaded documents locally, extract text from PDF, DOCX, and TXT files, and support private question answering using
+a locally hosted Ollama model.
+
+Scope of work includes document upload, deterministic document quality classification, chunking, lexical retrieval, and a
+private chat endpoint. The vendor must not transmit document contents to external APIs. The proposed MVP should be simple,
+auditable, and suitable for future expansion.
+
+Evaluation criteria include privacy, ease of installation, clear API contracts, document handling reliability, and a path
+to future local embeddings. The implementation should avoid heavyweight background processing during the MVP.

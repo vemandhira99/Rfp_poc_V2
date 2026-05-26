@@ -1,0 +1,41 @@
+Request for Proposal: Local Private RFP Analysis Platform
+
+The buyer seeks a secure local-first document analysis platform to support upload, parsing, classification, retrieval, private chat, short draft generation, and DOCX export. The scope includes PDF, DOCX, and TXT ingestion, deterministic document quality checks, local chunking, local embeddings using Ollama, and private question answering grounded in retrieved excerpts.
+
+The selected vendor must provide a professional application that runs on a Windows laptop without dedicated GPU resources. The system must keep all RFP content on the machine and must not transmit documents, chunks, embeddings, or prompts to external cloud AI providers. The platform should expose a clean backend API and a minimal frontend for dashboard, upload, chat, and settings.
+
+Functional requirements include local upload validation, text extraction, chunk creation, lexical retrieval fallback, semantic retrieval when local embeddings are available, private chat responses, source chunk references, draft generation for eight short sections, and DOCX export with a privacy note. Technical requirements include SQLite storage for the MVP, FastAPI backend services, Ollama llama3.2:3b for local chat, and nomic-embed-text for local embeddings.
+
+Security requirements include private mode operation, no external AI providers, local-only processing, no arbitrary shell execution, no arbitrary file access, and clear human review requirements for generated drafts. The tool must support auditability and controlled behavior suitable for enterprise evaluation.
+
+Implementation should be completed in phases. The first phase covers backend foundation, upload, parsing, classification, chunking, retrieval, and private chat. The second phase covers local embeddings, hybrid retrieval, private short draft generation, DOCX export, and a local MCP wrapper. The expected deadline for MVP validation is 30 June 2026, with a pilot review planned after local testing.
+
+Submission requirements include a working local backend, clear API documentation, test scripts, and evidence that external_api_used remains false. The proposal should describe the approach, constraints, assumptions, risks, mitigations, implementation plan, and support for future controlled integrations.
+
+Request for Proposal: Local Private RFP Analysis Platform
+
+The buyer seeks a secure local-first document analysis platform to support upload, parsing, classification, retrieval, private chat, short draft generation, and DOCX export. The scope includes PDF, DOCX, and TXT ingestion, deterministic document quality checks, local chunking, local embeddings using Ollama, and private question answering grounded in retrieved excerpts.
+
+The selected vendor must provide a professional application that runs on a Windows laptop without dedicated GPU resources. The system must keep all RFP content on the machine and must not transmit documents, chunks, embeddings, or prompts to external cloud AI providers. The platform should expose a clean backend API and a minimal frontend for dashboard, upload, chat, and settings.
+
+Functional requirements include local upload validation, text extraction, chunk creation, lexical retrieval fallback, semantic retrieval when local embeddings are available, private chat responses, source chunk references, draft generation for eight short sections, and DOCX export with a privacy note. Technical requirements include SQLite storage for the MVP, FastAPI backend services, Ollama llama3.2:3b for local chat, and nomic-embed-text for local embeddings.
+
+Security requirements include private mode operation, no external AI providers, local-only processing, no arbitrary shell execution, no arbitrary file access, and clear human review requirements for generated drafts. The tool must support auditability and controlled behavior suitable for enterprise evaluation.
+
+Implementation should be completed in phases. The first phase covers backend foundation, upload, parsing, classification, chunking, retrieval, and private chat. The second phase covers local embeddings, hybrid retrieval, private short draft generation, DOCX export, and a local MCP wrapper. The expected deadline for MVP validation is 30 June 2026, with a pilot review planned after local testing.
+
+Submission requirements include a working local backend, clear API documentation, test scripts, and evidence that external_api_used remains false. The proposal should describe the approach, constraints, assumptions, risks, mitigations, implementation plan, and support for future controlled integrations.
+
+Request for Proposal: Local Private RFP Analysis Platform
+
+The buyer seeks a secure local-first document analysis platform to support upload, parsing, classification, retrieval, private chat, short draft generation, and DOCX export. The scope includes PDF, DOCX, and TXT ingestion, deterministic document quality checks, local chunking, local embeddings using Ollama, and private question answering grounded in retrieved excerpts.
+
+The selected vendor must provide a professional application that runs on a Windows laptop without dedicated GPU resources. The system must keep all RFP content on the machine and must not transmit documents, chunks, embeddings, or prompts to external cloud AI providers. The platform should expose a clean backend API and a minimal frontend for dashboard, upload, chat, and settings.
+
+Functional requirements include local upload validation, text extraction, chunk creation, lexical retrieval fallback, semantic retrieval when local embeddings are available, private chat responses, source chunk references, draft generation for eight short sections, and DOCX export with a privacy note. Technical requirements include SQLite storage for the MVP, FastAPI backend services, Ollama llama3.2:3b for local chat, and nomic-embed-text for local embeddings.
+
+Security requirements include private mode operation, no external AI providers, local-only processing, no arbitrary shell execution, no arbitrary file access, and clear human review requirements for generated drafts. The tool must support auditability and controlled behavior suitable for enterprise evaluation.
+
+Implementation should be completed in phases. The first phase covers backend foundation, upload, parsing, classification, chunking, retrieval, and private chat. The second phase covers local embeddings, hybrid retrieval, private short draft generation, DOCX export, and a local MCP wrapper. The expected deadline for MVP validation is 30 June 2026, with a pilot review planned after local testing.
+
+Submission requirements include a working local backend, clear API documentation, test scripts, and evidence that external_api_used remains false. The proposal should describe the approach, constraints, assumptions, risks, mitigations, implementation plan, and support for future controlled integrations.
