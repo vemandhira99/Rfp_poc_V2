@@ -1,0 +1,9 @@
+{
+  "/rfps/[id]/page": "app/rfps/[id]/page.js",
+  "/drafts/page": "app/drafts/page.js",
+  "/rfps/[id]/draft/page": "app/rfps/[id]/draft/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/audit/page": "app/audit/page.js",
+  "/chat/page": "app/chat/page.js",
+  "/page": "app/page.js"
+}
